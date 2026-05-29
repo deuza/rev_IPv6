@@ -12,6 +12,10 @@ root@foobar:~#
 ```
 
 ```
+root@foobar:~# sha256sum rev_IPv6.sh
+399bb55e7f5e87c5b4eda535171a780f17f2088843c232da1dcb30234df4dd46  rev_IPv6.sh
+root@foobar:~#
+
 root@foobar:~# shellcheck rev_IPv6.sh
 root@foobar:~# echo $?
 0
