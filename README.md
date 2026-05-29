@@ -1,5 +1,7 @@
 # rev_IPv6
 
+Need the package `utils-linux` if the `rev` binary is not here.
+
 A small script to help name server administrators implement easy reverse IPv6 for PTR records :
 
 ```
